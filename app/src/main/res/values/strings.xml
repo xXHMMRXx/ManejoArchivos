@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TxtArchivos</string>
+    <string name="Nombre">Ingrese Su Nombre</string>
+    <string name="BotonGuardar">Guardar</string>
+    <string name="Contenido">Contenido</string>
+    <string name="Mostrar">Actualizar</string>
+</resources>
